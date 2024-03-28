@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EmiJi\\OneDrive\\Documentos\\Marielle\\Blazor\\BlazorPractice\\BlazorProjectVS\\BlazorProjectVS.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EmiJi\\OneDrive\\Documentos\\Marielle\\Blazor\\BlazorPractice\\BlazorProjectVS\\BlazorProjectVS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EmiJi\\OneDrive\\Documentos\\Marielle\\Blazor\\BlazorPractice\\BlazorProjectVS\\BlazorProjectVS.csproj",
+        "projectName": "BlazorProjectVS",
+        "projectPath": "C:\\Users\\EmiJi\\OneDrive\\Documentos\\Marielle\\Blazor\\BlazorPractice\\BlazorProjectVS\\BlazorProjectVS.csproj",
+        "packagesPath": "C:\\Users\\EmiJi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EmiJi\\OneDrive\\Documentos\\Marielle\\Blazor\\BlazorPractice\\BlazorProjectVS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EmiJi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
