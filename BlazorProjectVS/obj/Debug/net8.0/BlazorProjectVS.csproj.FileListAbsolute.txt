@@ -27,3 +27,4 @@ C:\Users\EmiJi\OneDrive\Documentos\Marielle\Blazor\BlazorPractice\BlazorProjectV
 C:\Users\EmiJi\OneDrive\Documentos\Marielle\Blazor\BlazorPractice\BlazorProjectVS\obj\Debug\net8.0\BlazorProjectVS.pdb
 C:\Users\EmiJi\OneDrive\Documentos\Marielle\Blazor\BlazorPractice\BlazorProjectVS\obj\Debug\net8.0\BlazorProjectVS.genruntimeconfig.cache
 C:\Users\EmiJi\OneDrive\Documentos\Marielle\Blazor\BlazorPractice\BlazorProjectVS\obj\Debug\net8.0\ref\BlazorProjectVS.dll
+C:\Users\EmiJi\OneDrive\Documentos\Marielle\Blazor\BlazorPractice\BlazorProjectVS\obj\Debug\net8.0\BlazorProjectVS.sourcelink.json
